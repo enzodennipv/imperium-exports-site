@@ -46,7 +46,7 @@ export default function Products() {
           {show("wines") && (
             <div className="product-card bg-white rounded-lg overflow-hidden shadow-md transition duration-300 ease-in-out">
               <div className="bg-gray-200">
-                <img src="/viticole.jpeg" alt="Corsican wine" className="w-full h-auto object-cover" />
+                <img src="/viticole.png" alt="Corsican wine" className="w-full h-auto object-cover" />
               </div>
               <div className="p-6">
                 <h3 className="text-lg font-bold text-gray-900">Patrimonio AOC</h3>
