@@ -58,8 +58,8 @@ export default function Products() {
             </div>
           )}
 
-          {/* Textiles */}
-          {show("imortelle") && (
+          {/* Immortelle */}
+          {show("immortelle") && (
             <div className="product-card bg-white rounded-lg overflow-hidden shadow-md transition duration-300 ease-in-out">
               <div className="bg-gray-200">
                 <img src="/immortelle.png" alt="Immortelle" className="w-full h-auto object-cover" />
