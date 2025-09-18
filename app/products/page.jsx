@@ -59,7 +59,7 @@ export default function Products() {
           )}
 
           {/* Textiles */}
-          {show("textiles") && (
+          {show("imortelle") && (
             <div className="product-card bg-white rounded-lg overflow-hidden shadow-md transition duration-300 ease-in-out">
               <div className="bg-gray-200">
                 <img src="/immortelle.png" alt="Immortelle" className="w-full h-auto object-cover" />
