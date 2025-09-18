@@ -1,4 +1,4 @@
-// File: /Users/User/Documents/imperium-exports-site/app/products/page.jsx
+// File: /Users/User/Documents/imperium-exports-sitev2/app/products/page.jsx
 import * as entry from '../../../../app/products/page.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

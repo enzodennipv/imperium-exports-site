@@ -33,9 +33,9 @@ export default function Products() {
             {T("wines","Corsican Wines")}
             {T("charcuterie","Charcuterie & Hams")}
             {T("olive","Olive Oil")}
-            {T("textiles","Textiles & Fabrics")}
-            {T("industrial","Industrial Equipment")}
-          </div>
+            {T("immortelle","Immortelle Products & Fabrics")}
+        
+         </div>
         </div>
       </div>
 
@@ -62,39 +62,26 @@ export default function Products() {
           {show("textiles") && (
             <div className="product-card bg-white rounded-lg overflow-hidden shadow-md transition duration-300 ease-in-out">
               <div className="bg-gray-200">
-                <img src="http://static.photos/textures/640x360/1" alt="Cotton fabrics" className="w-full h-auto object-cover" />
+                <img src="/immortelle.png" alt="Immortelle" className="w-full h-auto object-cover" />
               </div>
               <div className="p-6">
-                <h3 className="text-lg font-bold text-gray-900">Cotton Fabrics</h3>
-                <p className="text-sm text-blue-600">Textiles & Fabrics</p>
+                <h3 className="text-lg font-bold text-gray-900">Immortelle-based Creations</h3>
+                <p className="text-sm text-blue-600">Immortelle Products & Fabrics</p>
                 <p className="mt-4 text-gray-600">
-                  Premium quality cotton fabrics in various weaves and finishes for fashion and home textiles.
+                Products crafted from the rare and precious immortelle, a premium Mediterranean plant renowned for its unique fragrance and high-end qualities.
                 </p>
               </div>
             </div>
           )}
 
-          {/* Industrial */}
-          {show("industrial") && (
-            <div className="product-card bg-white rounded-lg overflow-hidden shadow-md transition duration-300 ease-in-out">
-              <div className="bg-gray-200">
-                <img src="http://static.photos/industry/640x360/3" alt="Industrial machinery" className="w-full h-auto object-cover" />
-              </div>
-              <div className="p-6">
-                <h3 className="text-lg font-bold text-gray-900">Industrial Machinery</h3>
-                <p className="text-sm text-blue-600">Industrial Equipment</p>
-                <p className="mt-4 text-gray-600">
-                  Heavy duty machinery and equipment for manufacturing and processing industries.
-                </p>
-              </div>
-            </div>
-          )}
+          
+          
 
-          {/* Olive Oil */}
+         {/* Olive Oil */}
           {show("olive") && (
             <div className="product-card bg-white rounded-lg overflow-hidden shadow-md transition duration-300 ease-in-out">
               <div className="bg-gray-200">
-                <img src="http://static.photos/food/640x360/12" alt="Olive oil" className="w-full h-auto object-cover" />
+                <img src="/oliveoil.png" alt="Olive oil" className="w-full h-auto object-cover" />
               </div>
               <div className="p-6">
                 <h3 className="text-lg font-bold text-gray-900">Premium Olive Oil</h3>
@@ -110,7 +97,7 @@ export default function Products() {
           {show("charcuterie") && (
             <div className="product-card bg-white rounded-lg overflow-hidden shadow-md transition duration-300 ease-in-out">
               <div className="bg-gray-200">
-                <img src="http://static.photos/food/640x360/14" alt="Charcuterie" className="w-full h-auto object-cover" />
+                <img src="/jambon.png" alt="Charcuterie" className="w-full h-auto object-cover" />
               </div>
               <div className="p-6">
                 <h3 className="text-lg font-bold text-gray-900">Corsican Charcuterie</h3>
