@@ -22,7 +22,7 @@ export default function Footer() {
             <ul className="mt-4 space-y-4">
               <li><Link href="/products#wines" className="text-base text-gray-300 hover:text-white">Corsican Wines</Link></li>
               <li><Link href="/products#charcuterie" className="text-base text-gray-300 hover:text-white">Charcuterie</Link></li>
-              <li><Link href="/products#industrial" className="text-base text-gray-300 hover:text-white">Industrial</Link></li>
+              <li><Link href="/products#Immortelle Products & Fabrics" className="text-base text-gray-300 hover:text-white">Industrial</Link></li>
               <li><Link href="/products" className="text-base text-gray-300 hover:text-white">View All</Link></li>
             </ul>
           </div>
