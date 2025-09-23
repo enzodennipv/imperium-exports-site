@@ -24,7 +24,7 @@ export default function About() {
                   <img src="/livreur.png" alt="Team working" className="w-full h-full object-cover" />
                 </div>
                 <div className="rounded-lg overflow-hidden">
-                  <img src="/napoleontable.png" alt="Warehouse" className="w-full h-full object-cover" />
+                  <img src="/Napoleontable.png" alt="Warehouse" className="w-full h-full object-cover" />
                 </div>
               </div>
             </div>
