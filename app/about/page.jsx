@@ -21,10 +21,10 @@ export default function About() {
               </div>
               <div className="mt-8 grid grid-cols-2 gap-4">
                 <div className="rounded-lg overflow-hidden">
-                  <img src="http://static.photos/workspace/640x360/1" alt="Team working" className="w-full h-full object-cover" />
+                  <img src="/livreur.png" alt="Team working" className="w-full h-full object-cover" />
                 </div>
                 <div className="rounded-lg overflow-hidden">
-                  <img src="http://static.photos/workspace/640x360/2" alt="Warehouse" className="w-full h-full object-cover" />
+                  <img src="/napoleontable.png" alt="Warehouse" className="w-full h-full object-cover" />
                 </div>
               </div>
             </div>
@@ -56,7 +56,7 @@ export default function About() {
             <span className="block">Ready to partner with us?</span>
           </h2>
           <p className="mt-4 text-lg leading-6 text-blue-200">
-            Join hundreds of satisfied clients benefiting from our global trade expertise.
+            Join satisfied clients benefiting from our global trade expertise.
           </p>
           <div className="mt-10 flex justify-center">
             <div className="inline-flex rounded-md shadow">

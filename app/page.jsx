@@ -31,7 +31,7 @@ export default function Home() {
                 <div className="px-4 py-8 sm:px-10">
                   <div className="flex justify-center">
                     <Image
-                      src="http://static.photos/industry/1024x576/1"
+                      src="/bonhomme.png"
                       alt="Global trade"
                       width={1024}
                       height={576}
