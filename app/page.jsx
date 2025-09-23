@@ -142,17 +142,17 @@ export default function Home() {
             {/* Product 1 */}
             <div className="group relative bg-white rounded-lg overflow-hidden shadow-md card-hover">
               <div className="bg-gray-200">
-                <Image src="http://static.photos/agriculture/640x360/1" alt="Agricultural products" width={640} height={360} className="w-full h-auto object-cover" />
+                <Image src="/patrimonio.png" alt="Agricultural products" width={640} height={360} className="w-full h-auto object-cover" />
               </div>
               <div className="p-6">
                 <h3 className="text-lg font-medium text-gray-900">
                   <Link href="/products#wines">
                     <span className="absolute inset-0" aria-hidden="true"></span>
-                    Agricultural Products
+                    Corsican Wines
                   </Link>
                 </h3>
                 <p className="mt-2 text-sm text-gray-500">
-                  Premium quality grains, fruits, and vegetables sourced from the best farms.
+                Corsican wines unite Mediterranean freshness with refined complexity, offering rare elegance shaped by sea, sun, and tradition.
                 </p>
               </div>
               <div className="px-6 pb-4">
@@ -165,17 +165,17 @@ export default function Home() {
             {/* Product 2 */}
             <div className="group relative bg-white rounded-lg overflow-hidden shadow-md card-hover">
               <div className="bg-gray-200">
-                <Image src="http://static.photos/textures/640x360/1" alt="Textile products" width={640} height={360} className="w-full h-auto object-cover" />
+                <Image src="/oliu.png" alt="Textile products" width={640} height={360} className="w-full h-auto object-cover" />
               </div>
               <div className="p-6">
                 <h3 className="text-lg font-medium text-gray-900">
                   <Link href="/products#textiles">
                     <span className="absolute inset-0" aria-hidden="true"></span>
-                    Textiles & Fabrics
+                    Artisan Prestige
                   </Link>
                 </h3>
                 <p className="mt-2 text-sm text-gray-500">
-                  High-quality fabrics and finished textile products for global fashion industries.
+                The essence of Corsican excellence — authentic, refined, unforgettable.
                 </p>
               </div>
               <div className="px-6 pb-4">
@@ -188,17 +188,17 @@ export default function Home() {
             {/* Product 3 */}
             <div className="group relative bg-white rounded-lg overflow-hidden shadow-md card-hover">
               <div className="bg-gray-200">
-                <Image src="http://static.photos/industry/640x360/2" alt="Industrial equipment" width={640} height={360} className="w-full h-auto object-cover" />
+                <Image src="/sensucorsica.png" alt="Industrial equipment" width={640} height={360} className="w-full h-auto object-cover" />
               </div>
               <div className="p-6">
                 <h3 className="text-lg font-medium text-gray-900">
                   <Link href="/products#industrial">
                     <span className="absolute inset-0" aria-hidden="true"></span>
-                    Industrial Equipment
+                    Corsican Immortelle
                   </Link>
                 </h3>
                 <p className="mt-2 text-sm text-gray-500">
-                  Heavy machinery and industrial components for manufacturing and construction.
+                Discover the timeless power of Corsica’s golden flower, crafted into rare creations that embody purity, vitality, and luxury. Celebrated for its soothing and regenerative virtues, Immortelle brings natural radiance to every experience.
                 </p>
               </div>
               <div className="px-6 pb-4">
