@@ -16,7 +16,7 @@ export default function About() {
           <div className="lg:grid lg:grid-cols-2 lg:gap-16">
             <div className="relative">
               <div className="relative rounded-lg overflow-hidden">
-                <img src="http://static.photos/office/1024x576/1" alt="Our office" className="w-full h-full object-cover" />
+                <img src="illustration.png" alt="Our office" className="w-full h-full object-cover" />
                 <div className="absolute inset-0 bg-blue-600 opacity-25"></div>
               </div>
               <div className="mt-8 grid grid-cols-2 gap-4">
