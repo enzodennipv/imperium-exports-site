@@ -16,7 +16,7 @@ export default function Home() {
                   <span className="block text-blue-200">Wonders</span>
                 </h1>
                 <p className="mt-3 text-base text-blue-100 sm:mt-5 sm:text-xl lg:text-lg xl:text-xl">
-                  Imperium Exports brings the rare and authentic treasures of Corsica to discerning partners worldwide.
+                  Imperium Exports brings the rare and authentic products of Corsica to discerning partners worldwide.
                   We curate exclusive premium products, crafted in limited quantities, reflecting the island’s unique terroir and timeless heritage.
                 </p>
                 <div className="mt-10 sm:mt-12">
