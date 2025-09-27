@@ -38,7 +38,7 @@ export default function Footer() {
           <div>
             <h3 className="text-sm font-semibold text-blue-400 uppercase">Connect</h3>
             <ul className="mt-4 space-y-4">
-              <li><a href="mailto:contact@imperiumexport.com" className="text-base text-gray-300 hover:text-white">contact@imperiumexport.com</a></li>
+              <li><a href="mailto:contact@imperiumexports.pro" className="text-base text-gray-300 hover:text-white">contact@imperiumexport.com</a></li>
               <li className="flex space-x-4 mt-2">
                 <a href="#" className="text-gray-400 hover:text-white"><Facebook className="h-6 w-6" /></a>
                 <a href="#" className="text-gray-400 hover:text-white"><Twitter className="h-6 w-6" /></a>
@@ -53,7 +53,7 @@ export default function Footer() {
             © {new Date().getFullYear()} Imperium Exports. All rights reserved.
           </p>
           <div className="mt-4 md:mt-0 flex space-x-6">
-            <a href="mailto:contact@imperiumexport.com" className="text-gray-400 hover:text-white inline-flex items-center">
+            <a href="mailto:contact@imperiumexports.pro" className="text-gray-400 hover:text-white inline-flex items-center">
               <Mail className="h-5 w-5 mr-2" /> Contact
             </a>
             <a href="tel:+1234567890" className="text-gray-400 hover:text-white inline-flex items-center">

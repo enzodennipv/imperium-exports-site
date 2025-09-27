@@ -44,12 +44,12 @@ export default function Home() {
                       <p className="text-sm text-gray-500">Countries</p>
                     </div>
                     <div className="text-center">
-                      <p className="text-3xl font-bold text-blue-600">500+</p>
-                      <p className="text-sm text-gray-500">Clients</p>
+                      <p className="text-3xl font-bold text-blue-600">40+</p>
+                      <p className="text-sm text-gray-500">Producers</p>
                     </div>
                     <div className="text-center">
-                      <p className="text-3xl font-bold text-blue-600">15+</p>
-                      <p className="text-sm text-gray-500">Years</p>
+                      <p className="text-3xl font-bold text-blue-600">+100</p>
+                      <p className="text-sm text-gray-500">Products</p>
                     </div>
                   </div>
                 </div>
