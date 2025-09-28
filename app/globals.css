@@ -16,4 +16,12 @@ html, body {
   max-width: 100%;
   overflow-x: hidden;
 }
+footer {
+  word-wrap: break-word;      
+  white-space: normal;       
+  min-height: auto;           
+}
+a, p, span {
+  word-break: break-word;
+}
 
