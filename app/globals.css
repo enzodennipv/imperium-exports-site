@@ -12,3 +12,8 @@
 }
 .tab-active { border-bottom: 3px solid #3b82f6; color:#3b82f6; }
 html, body { scroll-behavior: smooth; }
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
