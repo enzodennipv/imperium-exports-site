@@ -134,7 +134,7 @@ export default function Products() {
                 <img src="/Nebbiu.png" alt="Wellness & Beauty" className="w-full h-auto object-cover" />
               </div>
               <div className="p-6">
-                <h3 className="text-lg font-bold text-gray-900">Artisanal Healthcare Products</h3>
+                <h3 className="text-lg font-bold text-gray-900">Artisanal Well-being Products</h3>
                 <p className="text-sm text-blue-600">Wellness & Beauty</p>
                 <p className="mt-4 text-gray-600">
                 Corsican well-being, born from rare botanicals and centuries of tradition, delivering purity and exceptional care.
