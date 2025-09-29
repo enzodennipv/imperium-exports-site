@@ -38,7 +38,7 @@ export default function Footer() {
           <div>
             <h3 className="text-sm font-semibold text-blue-400 uppercase">Connect</h3>
             <ul className="mt-4 space-y-4">
-              <li><a href="mailto:contact@imperiumexports.pro" className="text-base text-gray-300 hover:text-white">contact@imperiumexport.pro</a></li>
+              <li><a href="mailto:contact@imperiumexports.pro" className="text-base text-gray-300 hover:text-white">contact@imperiumexports.pro</a></li>
               <li className="flex space-x-4 mt-2">
                 <a href="#" className="text-gray-400 hover:text-white"><Facebook className="h-6 w-6" /></a>
                 <a href="#" className="text-gray-400 hover:text-white"><Twitter className="h-6 w-6" /></a>
