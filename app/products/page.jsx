@@ -34,6 +34,8 @@ export default function Products() {
             {T("charcuterie","Charcuterie & Hams")}
             {T("olive","Olive Oil")}
             {T("immortelle","Immortelle Products & Fabrics")}
+            {T("groceries","Groceries")}
+            {T("wellness","Wellness & Beauty")}
         
          </div>
         </div>
@@ -108,6 +110,39 @@ export default function Products() {
               </div>
             </div>
           )}
+
+          {/* Groceries */}
+          {show("groceries") && (
+            <div className="product-card bg-white rounded-lg overflow-hidden shadow-md transition duration-300 ease-in-out">
+              <div className="bg-gray-200">
+                <img src="/miellat.png" alt="Groceries" className="w-full h-auto object-cover" />
+              </div>
+              <div className="p-6">
+                <h3 className="text-lg font-bold text-gray-900">Corsican Groceries & Edible Products</h3>
+                <p className="text-sm text-blue-600">Groceries</p>
+                <p className="mt-4 text-gray-600">
+                Corsica’s treasures — crafted with passion, rooted in heritage, and offering flavors found nowhere else.
+                </p>
+              </div>
+            </div>
+          )}
+
+          {/* Wellness & Beauty */}
+          {show("wellness") && (
+            <div className="product-card bg-white rounded-lg overflow-hidden shadow-md transition duration-300 ease-in-out">
+              <div className="bg-gray-200">
+                <img src="/nebbiu.png" alt="Wellness & Beauty" className="w-full h-auto object-cover" />
+              </div>
+              <div className="p-6">
+                <h3 className="text-lg font-bold text-gray-900">Artisanal Healthcare Products</h3>
+                <p className="text-sm text-blue-600">Wellness & Beauty</p>
+                <p className="mt-4 text-gray-600">
+                Corsican wellness, born from rare botanicals and centuries of tradition, delivering purity and exceptional care.
+                </p>
+              </div>
+            </div>
+          )}
+          
         </div>
       </div>
     </div>
