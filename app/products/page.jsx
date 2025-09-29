@@ -131,7 +131,7 @@ export default function Products() {
           {show("wellness") && (
             <div className="product-card bg-white rounded-lg overflow-hidden shadow-md transition duration-300 ease-in-out">
               <div className="bg-gray-200">
-                <img src="/nebbiu.png" alt="Wellness & Beauty" className="w-full h-auto object-cover" />
+                <img src="/Nebbiu.png" alt="Wellness & Beauty" className="w-full h-auto object-cover" />
               </div>
               <div className="p-6">
                 <h3 className="text-lg font-bold text-gray-900">Artisanal Healthcare Products</h3>
@@ -142,7 +142,7 @@ export default function Products() {
               </div>
             </div>
           )}
-          
+
         </div>
       </div>
     </div>
