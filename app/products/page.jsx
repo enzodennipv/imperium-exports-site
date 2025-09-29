@@ -137,7 +137,7 @@ export default function Products() {
                 <h3 className="text-lg font-bold text-gray-900">Artisanal Healthcare Products</h3>
                 <p className="text-sm text-blue-600">Wellness & Beauty</p>
                 <p className="mt-4 text-gray-600">
-                Corsican wellness, born from rare botanicals and centuries of tradition, delivering purity and exceptional care.
+                Corsican well-being, born from rare botanicals and centuries of tradition, delivering purity and exceptional care.
                 </p>
               </div>
             </div>

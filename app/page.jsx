@@ -188,7 +188,7 @@ export default function Home() {
             {/* Product 3 */}
             <div className="group relative bg-white rounded-lg overflow-hidden shadow-md card-hover">
               <div className="bg-gray-200">
-                <Image src="/sensucorsica.png" alt="Industrial equipment" width={640} height={360} className="w-full h-auto object-cover" />
+                <Image src="/sensuu.png" alt="Industrial equipment" width={640} height={360} className="w-full h-auto object-cover" />
               </div>
               <div className="p-6">
                 <h3 className="text-lg font-medium text-gray-900">
@@ -240,3 +240,4 @@ export default function Home() {
     </div>
   );
 }
+
