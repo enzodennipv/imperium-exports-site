@@ -1,20 +1,21 @@
 {
-  "name": "imperium-exports",
-  "private": true,
+  "name": "imperium-exports-sitev2",
   "version": "0.1.0",
+  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "start": "next start",
-    "lint": "next lint"
+    "start": "next start"
   },
   "dependencies": {
-    "lucide-react": "0.441.0",
-    "next": "^15.5.3",
-    "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "lucide-react": "^0.544.0",
+    "next": "^15.5.4",
+    "next-intl": "^4.3.9",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
   },
   "devDependencies": {
+    "@types/react": "^19.2.0",
     "autoprefixer": "10.4.20",
     "eslint": "^9.35.0",
     "eslint-config-next": "15.0.0",
