@@ -4,7 +4,7 @@ import Navbar from "./navbar.jsx"; // Composant séparé
 import Footer from "./footer.jsx"; // Composant séparé
 
 export const metadata = {
-  title: "Imperium Exports",
+  title: "Noa va te faire enculer",
   description: "Gateway to Corsican Wonders",
   icons: { icon: "/favicon.ico" },
 };
